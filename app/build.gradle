@@ -15,8 +15,6 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        // 2 - Añado esta línea para acceder a la API KEY almacenada en gradle.properties desde el código
-        buildConfigField 'String', 'AlphaVantageApiKey', AlphaVantageApiKey
     }
 
     buildTypes {

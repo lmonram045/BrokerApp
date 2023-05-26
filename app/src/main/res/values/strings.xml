@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BrokerApp</string>
+    <string name="grafica">Gráfica</string>
 </resources>
